@@ -83,7 +83,7 @@
 						</tr>
 						<tr>
 							<td colspan="2"><input  onclick="validateForm()" type='button' value='Submit'> <input type="reset" name="reet"></td>
-						<a href="login.html">login</a>
+						<a href="login.php">login</a>
 						</tr>
 						
 						

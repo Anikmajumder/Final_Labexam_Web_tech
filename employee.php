@@ -15,9 +15,10 @@
 	<br> <h1>Welcome Home! <?=$_COOKIE['username']?></h1> 
 	
 		
-		<tr align="right"><a href="home.html">Home</a> <br>
+		
 		<a href="logout.php">logout</a> <br>
-		<a href="regis.html">Change Profile</a><br>
+		<a href="edit.php">Change Profile</a><br>
+		<a href="p.php"> Profile</a><br>
 		
 	</tr>
 	</tr>

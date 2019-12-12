@@ -16,9 +16,9 @@
 		
 		<tr align="right"><a href="home.html">Home</a> <br>
 		<a href="logout.php">logout</a> <br>
-		<a href="regis.html">Profile</a><br>
+		<a href="p.php">Profile</a><br>
 		<a href="display.php">View user</a> <br>
-	    <a href="adduser.php">Add employee</a>  <br>
+	    <a href="edit.php">Edit profile</a>  <br>
 	</tr>
 	</tr>
 	
